@@ -1,6 +1,6 @@
 # belajarDocker
-me learning docker
-
+me learning docker - will update this content more as i progresses.
+- first part of this learning came from : https://www.youtube.com/watch?v=pTFZFxd4hOI
 ## notes learning docker
 - semua container ada environment sendiri
 
@@ -24,3 +24,4 @@ docker run <image name>
    build a docker image
    docker build -t <tag>  <path to location>
 ```
+If we change the files that packaged to docker image and run command docker build. The image will be updated.
