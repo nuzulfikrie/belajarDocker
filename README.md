@@ -25,3 +25,8 @@ docker run <image name>
    docker build -t <tag>  <path to location>
 ```
 If we change the files that packaged to docker image and run command docker build. The image will be updated.
+
+command run image interactively
+```
+docker run -it <image>
+```
